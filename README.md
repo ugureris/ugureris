@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **Java**
 
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ugureris" height="140" alt="languages graph"  />
+</div>
+
 - 📫 How to reach me **ugureris82@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
